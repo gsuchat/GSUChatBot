@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "app/app/wsgi.py"
+    }
+  ]
+}
